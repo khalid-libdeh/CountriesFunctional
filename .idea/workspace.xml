@@ -20,19 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3799dd37-fb95-497d-a43e-6635ea8919f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/javascript/localStorage.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/custom.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javascript/detailsPage/detailsPageMain.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript/detailsPage/detailsPageMain.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javascript/detailsPage/renderCountry.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript/detailsPage/renderCountry.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javascript/favouritesHandlers.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript/favourites.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javascript/filter.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript/filter.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/javascript/functional.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript/functional.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javascript/loadCountries.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript/countries.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javascript/passData.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript/passData.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javascript/renderCountries.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript/rendering.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javascript/searchFunctions.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript/searchFunctions.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +101,7 @@
       <workItem from="1678470586596" duration="2004000" />
       <workItem from="1678487849264" duration="14470000" />
       <workItem from="1678536565711" duration="30653000" />
-      <workItem from="1678623492059" duration="26493000" />
+      <workItem from="1678623492059" duration="27187000" />
     </task>
     <servers />
   </component>
