@@ -1,0 +1,162 @@
+body {
+  background-color:  #fafafa;
+  margin:0;
+  padding:0;
+  font-family: "Nunito Sans";
+}
+h1{
+  font-size: 1.7rem;
+  width:20rem;
+}
+header{
+  min-height: 5rem;
+
+}
+.search-icon{
+  max-height:15px;
+  max-width: 15px;
+}
+
+.card{
+  min-width: 17rem;
+  max-width: 17rem;
+  height: 23rem;
+  draggable: true;
+  box-shadow: 1px 2px 1px 1px rgba(1,1,1,0.05);
+}
+
+.dropdown{
+ width: 13rem;
+  text-align: left;
+}
+.dropdown-menu{
+  width: 100%;
+  box-shadow: 1px 2px 1px 1px rgba(1,1,1,0.05);
+}
+.dropdown-toggle{
+  box-shadow: 1px 2px 1px 1px rgba(1,1,1,0.05);
+  min-width: 13rem;
+  min-height: 3rem;
+  text-align: left;
+  width: 100%;
+}
+
+.ser{
+  width: 30rem;
+  min-height: 3rem;
+  box-shadow: 1px 2px 1px 1px rgba(1,1,1,0.05);
+  border-radius: 0.2rem;
+}
+.card-img-top{
+  float: inside;
+  min-height: 12rem;
+  max-height: 12rem;
+  object-fit: cover;
+}
+.card-body{
+  margin-left: 0.6rem;
+  margin-top: 0.9rem;
+}
+.card-text{
+  font-size:0.9rem;
+
+}
+.card-title{
+  font-size:1.2rem;
+  margin-bottom: 1rem;
+}
+.gy-5{
+  row-gap: 1rem;
+}
+.gx-5{
+
+}
+.col{
+display: flex;
+}
+
+.dark{
+  background: #121212;
+  color:white;
+}
+.darkHeader{
+  background-color: #121212;
+  color:black;
+}
+
+.dark header{
+  color:black;
+}
+
+
+  /* start of medium tablet styles */
+  .fav-list {
+    min-width: 17rem;
+  }
+
+  .fav-list img {
+    height: 20px;
+    width: 35px;
+  }
+
+  .fav-list--over {
+    border-color: #27ae60
+  }
+
+  .xBtn {
+    background-color: darkgrey;
+    height: 1.5em;
+    width: 1.5rem;
+    border: none;
+    color: white;
+    border-radius: 50%;
+  }
+.fa-star{
+  appearance: none;
+  display: inline;
+
+}
+
+.xButton{
+  appearance: none;
+}
+
+.flag-icon{
+  min-height: 1rem;
+  min-width: 1rem;
+}
+.fa-star{
+  color:white;
+}
+
+@media screen and (max-width: 479px) {
+.fav-list{
+  display: none;
+
+}
+.fa-star{
+    display: inline;
+    color: darkgrey;
+}
+  .checked{
+    display: inline;
+    color:orange;
+  }
+
+  .fav-click{
+    all:unset;
+  }
+  span{
+    width: 5rem;
+    height: 2rem;
+  }
+}
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3799dd37-fb95-497d-a43e-6635ea8919f0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/javascript/localStorage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/custom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/detailsPage/detailsPageMain.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript/detailsPage/detailsPageMain.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/detailsPage/renderCountry.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript/detailsPage/renderCountry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/favouritesHandlers.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript/favourites.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/filter.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript/filter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/functional.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript/functional.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/loadCountries.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript/countries.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/passData.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript/passData.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/renderCountries.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript/rendering.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/searchFunctions.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript/searchFunctions.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2M6AQuhTpTWA08NeUmncxtndnZe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Assignment1" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\EditedAssignment3" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\EditedAssignment3\javascript" />
+      <recent name="C:\xampp\htdocs\EditedAssignment3" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3799dd37-fb95-497d-a43e-6635ea8919f0" name="Default Changelist" comment="" />
+      <created>1677077645353</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677077645353</updated>
+      <workItem from="1677077646448" duration="21876000" />
+      <workItem from="1677160955339" duration="17072000" />
+      <workItem from="1677207959492" duration="4076000" />
+      <workItem from="1677250417304" duration="30108000" />
+      <workItem from="1677330137268" duration="30577000" />
+      <workItem from="1677410560660" duration="24994000" />
+      <workItem from="1677606932722" duration="8538000" />
+      <workItem from="1677632435411" duration="6896000" />
+      <workItem from="1677672895809" duration="17741000" />
+      <workItem from="1677747462529" duration="4357000" />
+      <workItem from="1677769672463" duration="7811000" />
+      <workItem from="1677849953496" duration="23247000" />
+      <workItem from="1677927332940" duration="42248000" />
+      <workItem from="1678017640759" duration="28671000" />
+      <workItem from="1678049657142" duration="896000" />
+      <workItem from="1678050876827" duration="813000" />
+      <workItem from="1678181277502" duration="13094000" />
+      <workItem from="1678196880938" duration="1816000" />
+      <workItem from="1678200436075" duration="1088000" />
+      <workItem from="1678286400447" duration="17378000" />
+      <workItem from="1678331096087" duration="3644000" />
+      <workItem from="1678362999355" duration="1998000" />
+      <workItem from="1678381715045" duration="4632000" />
+      <workItem from="1678406050707" duration="3794000" />
+      <workItem from="1678452895004" duration="7172000" />
+      <workItem from="1678463609088" duration="5776000" />
+      <workItem from="1678470586596" duration="2004000" />
+      <workItem from="1678487849264" duration="14470000" />
+      <workItem from="1678536565711" duration="30653000" />
+      <workItem from="1678623492059" duration="26493000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="508" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1677346673529">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="508" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1677346673529" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1678031099873">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1678031099873" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1677355904566">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1677355904566" />
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1678039626652">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1678039626652" />
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1678039626652">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1678039626652" />
+    <state x="165" y="141" width="1193" height="578" key="dock-window-1" timestamp="1677616053096">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="165" y="141" width="1193" height="578" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1677616053096" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1677867012278">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1677867012278" />
+  </component>
+</project>

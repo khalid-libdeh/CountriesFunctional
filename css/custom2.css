@@ -1,0 +1,81 @@
+body {
+    background-color:  #fafafa;
+    margin:0;
+    padding:0;
+    font-family: "Nunito Sans";
+}
+h1{
+    font-size: 1.7rem;
+    width:20rem;
+}
+header{
+    min-height: 5rem;
+
+}
+.search-icon{
+    max-height:15px;
+    max-width: 15px;
+}
+
+
+.ser{
+    width: 30rem;
+    min-height: 3rem;
+    box-shadow: 1px 2px 1px 1px rgba(1,1,1,0.05);
+    border-radius: 0.2rem;
+}
+
+.back-btn{
+    box-shadow: 1px 2px 1px 1px rgba(1,1,1,0.05);
+    border-radius: 0.2rem;
+
+}
+
+
+.col{
+    display: flex;
+}
+
+
+.flag{
+    min-height: 25rem;
+    max-height: 25rem;
+    width: 35rem;
+    object-fit: fill;
+}
+
+
+.details{
+    margin-top: 3rem;
+    text-decoration: none;
+
+}
+.country-btn{
+    all:unset;
+    background-color: white;
+    box-shadow: 1px 2px 1px 1px rgba(1,1,1,0.05);
+    border-radius: 0.2rem;
+    text-align: center;
+    font-size: 0.9rem;
+    min-width: 7rem;
+    min-height: 1.7rem;
+}
+.borderCountries{
+    width: 30%;
+    text-align: center;
+}
+.country-title{
+    height: 2rem;;
+}
+
+.dark{
+    background-color: #121212;
+    color:white;
+
+}
+.dark button{
+    color:black;
+}
+.dark header{
+    color:black;
+}

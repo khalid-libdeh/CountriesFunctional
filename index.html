@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Flags</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans&display=swap" rel="stylesheet">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Countries</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous" type="text/css">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/custom.css" type="text/css">
+
+    <script type="module" src="javascript/functional.js" type="text/javascript"></script>
+</head>
+<body>
+<div id="header-container" class="border w-100 bg-white">
+<header class="container h-100 d-flex align-items-center ">
+    <div class="container">
+    <div class="d-flex justify-content-between align-items-center" >
+        <h1 id="title"><b>Where in the world?</b></h1>
+        <button id='darkBtn' class="d-flex align-items-center w-25 border-0 bg-white justify-content-end" >
+            <img class="search-icon img-fluid" src="icons/moon-outline.svg" alt="search">
+            <div  class="btn text-left  "><b>Dark Mode</b></div>
+        </button>
+    </div>
+    </div>
+</header>
+</div>
+
+<main class="mt-5">
+    <div class="container">
+        <div class="container row justify-content-between mt-1 gy-4 ">
+        <div class="d-flex ser bg-white align-items-center" >
+            <img class="search-icon" src="icons/search-outline.svg" alt="search">
+
+        <input id="search" class="border-0 w-100" type="text" placeholder="Search for a country...">
+
+        </div>
+            <div class="dropdown text-left" >
+                <button id="drop-down" class="btn btn-secondary dropdown-toggle bg-white text-black border-white"  type="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    Filter by
+                </button>
+
+                <ul class="dropdown-menu">
+                    <li><button class="dropdown-item" href="#" >No filter</button></li>
+                    <li><button class="dropdown-item" href="#" >Africa</button></li>
+                    <li><button class="dropdown-item" href="#" >America</button></li>
+                    <li><button class="dropdown-item" href="#" >Asia</button></li>
+                    <li><button class="dropdown-item" href="#" >Europe</button></li>
+                    <li><button class="dropdown-item" href="#" >Favourites</button></li>
+                    <li><button class="dropdown-item" href="#" >Oceania</button></li>
+
+                </ul>
+            </div>
+
+    </div>
+        <div  class="d-flex gap-4 mt-5">
+        <div  class="bg-white fav-list shadow p-3">
+            <h3 class="ms-3">Favourites</h3>
+            <div id="fav-list" class=" h-100 w-100"></div>
+        </div>
+
+
+        <div id="add-countries" class=" row card-group g-5 gy-5" >
+
+
+        </div>
+        </div>
+    </div>
+    </h3>
+</main>
+
+</body>
+
+</html>
