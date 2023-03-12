@@ -70,7 +70,7 @@ import {getLocalStorageValue, setLocalStorageValue} from "./localStorage.js";
         let country = countries.find((country) =>country.cca2 === countryCode);
         fav = removeFromFavourites(country, fav);
         handleFavouritesUpdate();
-        console.log(fav);
+
     }
     await toggleDark(()=>{
         let bodyDark = document.body;
